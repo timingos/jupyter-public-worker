@@ -1,0 +1,164 @@
+{
+    "servers": [
+        {
+            "provider": "mrVcoder",
+            "type": "vmess",
+            "server": "https://raw.githubusercontent.com/mrvcoder/V2rayCollector/main/vmess_iran.txt"
+        },
+        {
+            "provider": "mrVcoder",
+            "type": "vless",
+            "server": "https://raw.githubusercontent.com/mrvcoder/V2rayCollector/main/vless_iran.txt"
+        },
+        {
+            "provider": "mrVcoder",
+            "type": "trojan",
+            "server": "https://raw.githubusercontent.com/mrvcoder/V2rayCollector/main/trojan_iran.txt"
+        },
+        {
+            "provider": "mrVcoder",
+            "type": "ss",
+            "server": "https://raw.githubusercontent.com/mrvcoder/V2rayCollector/main/ss_iran.txt"
+        },
+        {
+            "provider": "mrVcoder",
+            "type": "mix",
+            "server": "https://github.com/mrvcoder/V2rayCollector/blob/main/mixed_iran.txt"
+        },
+        {
+            "provider": "yekbekh",
+            "type": "vmess",
+            "server": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/vmess"
+        },
+        {
+            "provider": "yekbekh",
+            "type": "vless",
+            "server": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/vless"
+        },
+        {
+            "provider": "yekbekh",
+            "type": "tuic",
+            "server": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/tuic"
+        },
+        {
+            "provider": "yekbekh",
+            "type": "trojan",
+            "server": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/trojan"
+        },
+        {
+            "provider": "yekbekh",
+            "type": "shadowsocks",
+            "server": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/shadowsocks"
+        },
+        {
+            "provider": "yekbekh",
+            "type": "reality",
+            "server": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/reality"
+        },
+        {
+            "provider": "yekbekh",
+            "type": "mix",
+            "server": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix"
+        },
+        {
+            "provider": "yekbekh",
+            "type": "hysteria2",
+            "server": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/hysteria2"
+        },
+        {
+            "provider": "taheri",
+            "type": "vmess",
+            "server": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/vmess"
+        },
+        {
+            "provider": "taheri",
+            "type": "vless",
+            "server": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/vless"
+        },
+        {
+            "provider": "taheri",
+            "type": "trojan",
+            "server": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/trojan"
+        },
+        {
+            "provider": "taheri",
+            "type": "ss",
+            "server": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/ss"
+        },
+        {
+            "provider": "taheri",
+            "type": "mix",
+            "server": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/mix"
+        },
+        {
+            "provider": "taheri",
+            "type": "mix-usa",
+            "server": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/United%20States/config.txt"
+        },
+        {
+            "provider": "taheri",
+            "type": "mix-turkey",
+            "server": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Turkey/config.txt"
+        },
+        {
+            "provider": "taheri",
+            "type": "mix-netherlands",
+            "server": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Netherlands/config.txt"
+        },
+        {
+            "provider": "taheri",
+            "type": "mix-france",
+            "server": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/France/config.txt"
+        },
+        {
+            "provider": "taheri",
+            "type": "mix-canada",
+            "server": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Canada/config.txt"
+        },
+        {
+            "provider": "taheri",
+            "type": "mix-world",
+            "server": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Mix/mix.txt"
+        },
+        {
+            "provider": "Epodonios",
+            "type": "mix-usa",
+            "server": "https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/United%20States/config.txt"
+        },
+        {
+            "provider": "Epodonios",
+            "type": "mix-canada",
+            "server": "https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Canada/config.txt"
+        },
+        {
+            "provider": "Epodonios",
+            "type": "mix-germany",
+            "server": "https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Germany/config.txt"
+        },
+        {
+            "provider": "Epodonios",
+            "type": "mix-denmark",
+            "server": "https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Denmark/config.txt"
+        },
+        {
+            "provider": "Epodonios",
+            "type": "mix-netherlands",
+            "server": "https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Netherlands/config.txt"
+        },
+        {
+            "provider": "Epodonios",
+            "type": "mix-turkey",
+            "server": "https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Turkey/config.txt"
+        },
+        {
+            "provider": "Epodonios",
+            "type": "mix-uk",
+            "server": "https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/United%20Kingdom/config.txt"
+        },
+        {
+            "provider": "s61",
+            "type": "vmess",
+            "server": "https://raw.githubusercontent.com/3yed-61/V2rayCollector/main/sub/vmess"
+        }
+    ]
+}
