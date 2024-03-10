@@ -1,29 +1,25 @@
 {
     "servers": [
         {
-            "provider": "mrVcoder",
-            "type": "vmess",
-            "server": "https://raw.githubusercontent.com/mrvcoder/V2rayCollector/main/vmess_iran.txt"
-        },
-        {
-            "provider": "mrVcoder",
-            "type": "vless",
-            "server": "https://raw.githubusercontent.com/mrvcoder/V2rayCollector/main/vless_iran.txt"
-        },
-        {
-            "provider": "mrVcoder",
-            "type": "trojan",
-            "server": "https://raw.githubusercontent.com/mrvcoder/V2rayCollector/main/trojan_iran.txt"
-        },
-        {
-            "provider": "mrVcoder",
-            "type": "ss",
-            "server": "https://raw.githubusercontent.com/mrvcoder/V2rayCollector/main/ss_iran.txt"
-        },
-        {
-            "provider": "mrVcoder",
-            "type": "mix",
-            "server": "https://github.com/mrvcoder/V2rayCollector/blob/main/mixed_iran.txt"
+            "provider": "barDia",
+            "type": "sub-1",
+            "server": "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub1.txt"
+        },{
+            "provider": "barDia",
+            "type": "sub-2",
+            "server": "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub2.txt"
+        },{
+            "provider": "barDia",
+            "type": "sub-3",
+            "server": "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub3.txt"
+        },{
+            "provider": "barDia",
+            "type": "sub-4",
+            "server": "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub4.txt"
+        },{
+            "provider": "barDia",
+            "type": "sub-5",
+            "server": "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub5.txt"
         },
         {
             "provider": "yekbekh",
@@ -159,6 +155,31 @@
             "provider": "s61",
             "type": "vmess",
             "server": "https://raw.githubusercontent.com/3yed-61/V2rayCollector/main/sub/vmess"
+        },
+          {
+            "provider": "mrVcoder",
+            "type": "vmess",
+            "server": "https://raw.githubusercontent.com/mrvcoder/V2rayCollector/main/vmess_iran.txt"
+        },
+        {
+            "provider": "mrVcoder",
+            "type": "vless",
+            "server": "https://raw.githubusercontent.com/mrvcoder/V2rayCollector/main/vless_iran.txt"
+        },
+        {
+            "provider": "mrVcoder",
+            "type": "trojan",
+            "server": "https://raw.githubusercontent.com/mrvcoder/V2rayCollector/main/trojan_iran.txt"
+        },
+        {
+            "provider": "mrVcoder",
+            "type": "ss",
+            "server": "https://raw.githubusercontent.com/mrvcoder/V2rayCollector/main/ss_iran.txt"
+        },
+        {
+            "provider": "mrVcoder",
+            "type": "mix",
+            "server": "https://github.com/mrvcoder/V2rayCollector/blob/main/mixed_iran.txt"
         }
     ]
 }
